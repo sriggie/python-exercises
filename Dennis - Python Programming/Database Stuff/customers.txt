@@ -1,0 +1,6 @@
+100,Dennis Muthui,Panama,20
+101,Python Muthui,Kenya,21
+102,Python Java,Kiambu,19
+103,Python Java PHP,Nairobi,22
+104,Python Java PHP,Nairobi,23
+105,Web Developer,Taveta,22

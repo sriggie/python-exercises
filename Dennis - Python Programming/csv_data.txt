@@ -1,0 +1,4 @@
+name,age,university,degree
+dennis,20,JKUAT,computer science
+alex,19,CPL,Software Developer
+alfred,23,mit,physics
